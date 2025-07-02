@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aibase
 
 Aibase is an open-source platform for discovering and learning about AI tools. It's a community-driven directory of AI tools, including chatbots, image generators, code generators, and more.
@@ -23,3 +24,7 @@ Contributions are welcome! If you have a tool you'd like to add to the directory
 ## License
 
 Aibase is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+=======
+# aibase
+AiBase helps you discover AI tools like chatbots, image generators, and more—all in one place 
+>>>>>>> d33f2dc22512ad9f33a2113451c9f770c872d0b9
