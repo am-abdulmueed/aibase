@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Aibase
 
 Aibase is an open-source platform for discovering and learning about AI tools. It's a community-driven directory of AI tools, including chatbots, image generators, code generators, and more.
